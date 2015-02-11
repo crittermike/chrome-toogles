@@ -2,7 +2,7 @@
   "name": "Toogles",
   "manifest_version": 2,
   "description": "Redirect YouTube URLs to Toogl.es for fun and profit",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "permissions": [
     "webRequest",
     "webRequestBlocking",
